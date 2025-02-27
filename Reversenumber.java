@@ -8,7 +8,7 @@ public class Reversenumber {
 		
 		Scanner sc = new Scanner(System.in);
 		//System.out.println("Enter a number");
-		int num=12345;
+		int num=123456;
 		int rev=0;
 		while(num!=0)
 		{
