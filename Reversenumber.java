@@ -1,4 +1,4 @@
-package commonquestions;
+
 
 import java.util.Scanner;
 
